@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChorusMalin
 - 👀 I’m interested in design
-- 🌱 I’m currently learning rive, storybook and figma. Well, I diving deeper into.
+- 🌱 I’m currently learning rive, storybook and figma. Well, I'm diving deeper into.
 - 💞️ I’m looking to collaborate on UI/UX for healthcare
 - 📫 How to reach me; malin@heybaberiba.com
 
